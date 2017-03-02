@@ -49,6 +49,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="WfdbPathException.cs" />
     <Compile Include="ZedGrapfForWfdbControl.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
